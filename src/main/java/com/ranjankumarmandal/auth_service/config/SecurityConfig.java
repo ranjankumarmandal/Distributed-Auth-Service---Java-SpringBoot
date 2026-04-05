@@ -1,4 +1,4 @@
-package com.ranjankumarmandal.auth_service;
+package com.ranjankumarmandal.auth_service.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
